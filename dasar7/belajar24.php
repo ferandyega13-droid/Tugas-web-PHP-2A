@@ -2,13 +2,13 @@
 //membuat function
 function salam(){
     echo "<h3>Assalamualaikum, </h3>";
-    echo "Perkenalkan, nama saya Iqbal<br/>";
+    echo "Perkenalkan, nama saya Ferandy<br/>";
 }
 
 function kenalan($nama,$asal) {
     echo "<h3>Halo Nama saya $nama </h3>";
     echo "Saya dari $asal <br>";
-    echo "Umur saya adalah ". hitungUmur(2007, 2026) ." tahun";
+    echo "Umur saya adalah ". hitungUmur(2006, 2026) ." tahun";
 }
 
 // membuat fungsi hitung umur
